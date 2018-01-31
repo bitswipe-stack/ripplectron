@@ -32,7 +32,7 @@ Vue.prototype.Loading = (isLoading) => {
 Vue.use(VueI18n)
 Vue.use(ElementUI)
 const i18n = new VueI18n({
-  locale: 'ko',
+  locale: 'en',
   messages
 })
 
